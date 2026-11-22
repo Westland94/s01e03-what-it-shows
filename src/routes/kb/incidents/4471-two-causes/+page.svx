@@ -4,7 +4,7 @@ title: '#4471 · two problems, not one'
 owner: Andrew Westley
 status: closed
 reviewed: 2026-11-21
-signature: v1.eyJzdWIiOiI1ODkzIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTUzMjQ0NTMsImV4cCI6MTc5NTQxMDg1M30.dYwDeObMSOL00TQ1eCdzz86fe6qXgI1q1zXAflp5Dcs
+signature: v1.eyJzdWIiOiI1ODkzIiwiYXVkIjoiY2hhbGxlbmdlOndoYXQtaXQtc2hvd3MiLCJpYXQiOjE3OTUzMjQ5MzAsImV4cCI6MTc5NTQxMTMzMH0.ds0aVm-ut1xYPxmFSWM5xXQ4j8UvFophDoFtTQQzVw8
 ---
 
 <script>
