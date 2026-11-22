@@ -33,6 +33,11 @@ problem (33 reports) is won't fix — the form is retired. The split is recorded
 
 <QueueTimeline ticket={4471} />
 
+## Outcome
+
+Closed 5 October. Parser: fixed — dates parse day/month for EU locales. Booking-v3 hint:
+won't fix — the form is retired.
+
 ## Lessons
 
 - A big ticket is mostly one bug reported many times. Merge early, count once.
